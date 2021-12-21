@@ -64,7 +64,7 @@ After spending 4 years at a tech startup in various business development roles, 
  ## Projects
 
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asabushaban&repo=Coina)](https://github.com/asabushaban/Coina)
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=Clickr-clone-of-Flickr)](https://github.com/Concrete18/Clickr-clone-of-Flickr)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flow-state-15&repo=discord_clone_2)](https://github.com/flow-state-15/discord_clone_2)

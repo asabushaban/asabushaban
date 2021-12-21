@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 After spending 4 years at a tech startup in various business development roles, I decided to take a pivot in my career and help build the future. Summer 2021 I was accepted into App Academy's 6-month immersive full-time web development bootcamp, which has a 3% acceptance rate. Throughout the program I have attained an understanding of multiple full-stack programming skills including, JavaScript, Data Structures and Algorithms, Object-Oriented Programming, HTML, CSS, and Relational Databases.
 ---
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asabushaban" />
+
 <p>
     <!-- Badges Link https://github.com/alexandresanlim/Badges4-README.md-Profile -->
     <!-- languages -->

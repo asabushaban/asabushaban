@@ -62,17 +62,17 @@ After spending 4 years at a tech startup in various business development roles, 
 ![AJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=asabushaban&count_private=true&show_icons=true&theme=tokyonight)
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=asabushaban">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=asabushaban&theme=tokyonight">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asabushaban" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asabushaban&theme=tokyonight" />
 
  ## Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asabushaban&repo=Coina&theme=tokyonight)](https://github.com/asabushaban/Coina)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NJSim&repo=Robinhood2.0)](https://github.com/NJSim/Robinhood2.0)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NJSim&repo=Robinhood2.0&theme=tokyonight)](https://github.com/NJSim/Robinhood2.0)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asabushaban&repo=Clevernote)](https://github.com/asabushaban/Clevernote)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asabushaban&repo=Clevernote&theme=tokyonight)](https://github.com/asabushaban/Clevernote)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anndonnelly&repo=Remember-the-CRUD)](https://github.com/anndonnelly/Remember-the-CRUD)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anndonnelly&repo=Remember-the-CRUD&theme=tokyonight)](https://github.com/anndonnelly/Remember-the-CRUD)
 

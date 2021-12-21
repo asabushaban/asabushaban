@@ -58,7 +58,7 @@ After spending 4 years at a tech startup in various business development roles, 
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Concrete18" /> -->
 
---- -->
+
 
 <!-- ## Projects
 

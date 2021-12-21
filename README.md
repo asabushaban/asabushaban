@@ -68,11 +68,5 @@ After spending 4 years at a tech startup in various business development roles, 
 
  ## Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asabushaban&repo=Coina)](https://github.com/asabushaban/Coina)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NJSim&repo=Robinhood2.0)](https://github.com/NJSim/Robinhood2.0)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asabushaban&repo=Clevernote)](https://github.com/asabushaban/Clevernote)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anndonnelly&repo=Remember-the-CRUD)](https://github.com/anndonnelly/Remember-the-CRUD)
 

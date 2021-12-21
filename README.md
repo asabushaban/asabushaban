@@ -56,22 +56,7 @@ After spending 4 years at a tech startup in various business development roles, 
     
 <p/>
 
-<!-- ## Coding Languages
-
-### Full Stack JavaScript
-
-I am working my way through the online App Academy Coding Bootcamp. I have created a solo and group full stack js project with deadlines and standups for each.
-`
-### Python
-
-I fully started learning Python in March 2020. It has been my major focus and is used in the majority of my public and private projects.
-
-### AHK
-
-I started learning AHK for personal use around 2015.
-I began learning AHK for speeding up common tasks that were often completed in a fraction of the time thanks to AHK.
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Concrete18" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Concrete18" /> -->
 
 --- -->
 

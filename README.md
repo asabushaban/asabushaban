@@ -65,28 +65,12 @@ After spending 4 years at a tech startup in various business development roles, 
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asabushaban&repo=Coina)](https://github.com/asabushaban/Coina)
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=Clickr-clone-of-Flickr)](https://github.com/Concrete18/Clickr-clone-of-Flickr)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flow-state-15&repo=discord_clone_2)](https://github.com/flow-state-15/discord_clone_2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NJSim&repo=Robinhood2.0)](https://github.com/NJSim/Robinhood2.0)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=Good-Games-1-week-Group-Project)](https://github.com/Concrete18/Good-Games-1-week-Group-Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asabushaban&repo=Clevernote)](https://github.com/asabushaban/Clevernote)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=Game-Save-Manager)](https://github.com/Concrete18/Game-Save-Manager)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anndonnelly&repo=Remember-the-CRUD)](https://github.com/anndonnelly/Remember-the-CRUD)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=Auto-Folder-Cleaner)](https://github.com/Concrete18/Auto-Folder-Cleaner)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=Config-Auto-Backup)](https://github.com/Concrete18/Config-Auto-Backup)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=Virtual-Assistant)](https://github.com/Concrete18/Virtual-Assistant)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=Home-Control-Interface)](https://github.com/Concrete18/Home-Control-Interface)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=Weather-Wallpaper-Changer)](https://github.com/Concrete18/Weather-Wallpaper-Changer)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=Standing-Reminder)](https://github.com/Concrete18/Standing-Reminder)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=Timed-Shutdown-Sleep)](https://github.com/Concrete18/Timed-Shutdown-Sleep)
-
---- -->
-
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Concrete18" /> -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=asabushaban">

@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![I am AJ Abushaban](https://raw.githubusercontent.com/Concrete18/Concrete18/master/header2.png)
+<!-- ![I am AJ Abushaban](https://raw.githubusercontent.com/Concrete18/Concrete18/master/header2.png) -->
 
 <!-- - <Michael.Ericson19@gmail.com> -->
 
@@ -25,9 +25,7 @@ Here are some ideas to get you started:
 # About Me
 
 
-After spending 4 years at a tech startup in various business development roles, I decided to take a pivot in my career and help build the future. Summer 2021 I was accepted into App Academy's 6-month immersive full-time web development bootcamp, which has a 3% acceptance rate.
-
-Throughout the program I have attained an understanding of multiple full-stack programming skills including, JavaScript, Data Structures and Algorithms, Object-Oriented Programming, HTML, CSS, and Relational Databases.
+After spending 4 years at a tech startup in various business development roles, I decided to take a pivot in my career and help build the future. Summer 2021 I was accepted into App Academy's 6-month immersive full-time web development bootcamp, which has a 3% acceptance rate. Throughout the program I have attained an understanding of multiple full-stack programming skills including, JavaScript, Data Structures and Algorithms, Object-Oriented Programming, HTML, CSS, and Relational Databases.
 ---
 
 <p>

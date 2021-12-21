@@ -60,9 +60,11 @@ After spending 4 years at a tech startup in various business development roles, 
 
 
 
-<!-- ## Projects
+ ## Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=Clickr-clone-of-Flickr)](https://github.com/Concrete18/Clickr-clone-of-Flickr)
+[![AJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=asabushaban)](https://github.com/asabushaban/Coina)
+
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=Clickr-clone-of-Flickr)](https://github.com/Concrete18/Clickr-clone-of-Flickr)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flow-state-15&repo=discord_clone_2)](https://github.com/flow-state-15/discord_clone_2)
 
@@ -84,7 +86,7 @@ After spending 4 years at a tech startup in various business development roles, 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=Timed-Shutdown-Sleep)](https://github.com/Concrete18/Timed-Shutdown-Sleep)
 
----
+--- -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=Concrete18" /> -->
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Concrete18" /> -->

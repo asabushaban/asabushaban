@@ -28,6 +28,7 @@ After spending 4 years at a tech startup in various business development roles, 
 ---
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asabushaban" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=asabushaban">
 
 <p>
     <!-- Badges Link https://github.com/alexandresanlim/Badges4-README.md-Profile -->
@@ -74,5 +75,3 @@ After spending 4 years at a tech startup in various business development roles, 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anndonnelly&repo=Remember-the-CRUD)](https://github.com/anndonnelly/Remember-the-CRUD)
 
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=asabushaban">

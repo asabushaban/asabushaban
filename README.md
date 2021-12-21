@@ -62,7 +62,7 @@ After spending 4 years at a tech startup in various business development roles, 
 
  ## Projects
 
-[![AJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=asabushaban)](https://github.com/asabushaban/Coina)
+[![AJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=asabushaban&count_private=true&show_icons=true&theme=tokyonight)]
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=Clickr-clone-of-Flickr)](https://github.com/Concrete18/Clickr-clone-of-Flickr)
 
@@ -88,5 +88,4 @@ After spending 4 years at a tech startup in various business development roles, 
 
 --- -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=Concrete18" /> -->
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Concrete18" /> -->

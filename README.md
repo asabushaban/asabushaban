@@ -68,7 +68,7 @@ After spending 4 years at a tech startup in various business development roles, 
 
  ## Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asabushaban&repo=Coina)](https://github.com/asabushaban/Coina)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asabushaban&repo=Coina&theme=tokyonight)](https://github.com/asabushaban/Coina)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NJSim&repo=Robinhood2.0)](https://github.com/NJSim/Robinhood2.0)
 

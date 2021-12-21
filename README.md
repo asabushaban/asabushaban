@@ -59,10 +59,11 @@ After spending 4 years at a tech startup in various business development roles, 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Concrete18" /> -->
 
 
+![AJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=asabushaban&count_private=true&show_icons=true&theme=tokyonight)
 
  ## Projects
 
-[![AJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=asabushaban&count_private=true&show_icons=true&theme=tokyonight)]
+
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=Clickr-clone-of-Flickr)](https://github.com/Concrete18/Clickr-clone-of-Flickr)
 

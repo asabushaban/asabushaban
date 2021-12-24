@@ -28,7 +28,6 @@ After spending 4 years at a tech startup in various business development roles, 
 ---
 
 <p>
-    <!-- Badges Link https://github.com/alexandresanlim/Badges4-README.md-Profile -->
     <!-- languages -->
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -54,8 +53,6 @@ After spending 4 years at a tech startup in various business development roles, 
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
     
 <p/>
-
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Concrete18" /> -->
 
 
 ![AJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=asabushaban&count_private=true&show_icons=true&theme=tokyonight)

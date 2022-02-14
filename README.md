@@ -24,7 +24,6 @@
 
 After spending 4 years at a tech startup in various business development roles, I decided to take a pivot in my career to help build the future. Summer 2021 I was accepted into App Academy's 6-month immersive web development bootcamp. Throughout the program I attained an understanding of multiple fullstack programming skills including, JavaScript, Python, React/Redux, Data Structures and Algorithms, Object-Oriented Programming, HTML, CSS, and Relational Databases. Today I work as a Software Engineer at Reynolds and Reynolds and, in my free-time, enjoy learning & building in the web3 ecosystem. 
 ---
-
 <p>
     <!-- languages -->
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />

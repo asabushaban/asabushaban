@@ -20,7 +20,7 @@
 # About Me
 
 
-After spending 4 years at a tech startup in various business development roles, I decided to take a pivot in my career to help build the future. Summer 2021 I was accepted into App Academy's 6-month immersive web development bootcamp. Throughout the program I attained an understanding of multiple fullstack programming skills including, JavaScript, Python, React/Redux, Data Structures and Algorithms, Object-Oriented Programming, HTML, CSS, and Relational Databases. Today I work as a Software Engineer at Reynolds and Reynolds and, in my free-time, enjoy learning & building in the web3 ecosystem. 
+From business development roles in a tech startup, I've transitioned to being on the forefront of technological innovation as a Software Engineer. Now at Gubagoo, I have spearheaded projects like overhauling UI for advanced data visualizations, introducing chat toolbars for specific events, and pioneering initiatives like 'dark mode' conversions. Beyond crafting solutions at work, I am deeply passionate about the web3 ecosystem, continuously learning and building within it during my free time.
 ---
 <p>
     <!-- languages -->

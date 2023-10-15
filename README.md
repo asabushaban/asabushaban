@@ -20,7 +20,7 @@
 # About Me
 
 
-From business development roles in a tech startup, I've transitioned to being on the forefront of technological innovation as a Software Engineer. Now at Gubagoo, I have spearheaded projects like overhauling UI for advanced data visualizations, introducing chat toolbars for specific events, and pioneering initiatives like 'dark mode' conversions. Beyond crafting solutions at work, I am deeply passionate about the web3 ecosystem, continuously learning and building within it during my free time.
+From business development roles in a tech startup, I've transitioned to being on the forefront of technological innovation as a Software Engineer. Now at Gubagoo, I have spearheaded projects like overhauling UI for advanced data visualizations, introducing chat toolbars for specific events, and pioneering initiatives like 'dark mode' conversions. I am addicted to the flow of squashing that bug, finding an effecient solution to a unique problem, and refactoring code to make it more beautiful. Coding is a canvas I use to pour out my creativity, but also a vehicle for bringing meaningful things to life that hopefully will help other people. Beyond crafting solutions at work, I am deeply passionate about the web3 ecosystem, continuously learning and building within it during my free time.
 ---
 <p>
     <!-- languages -->

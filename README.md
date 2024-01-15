@@ -1,4 +1,4 @@
-<!-----
+<!-----------
 **asabushaban/asabushaban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on ...
@@ -9,7 +9,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ..
------->
+----------->
 
 <img src="https://github.com/asabushaban/Coina/blob/main/react-app/public/wireframes/downtownskyline_dusk_2200x1458_fb275565-0b6b-482b-8d06-43c2cb3f03f.jpeg">
 

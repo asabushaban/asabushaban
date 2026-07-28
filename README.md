@@ -17,14 +17,9 @@
 [![Readme Card](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asabushaban@gmail.com)
 [![Readme Card](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aj-abushaban-919231100/)
 <img src='https://komarev.com/ghpvc/?username=asabushaban&color=blueviolet' alt='profile view counter' title='profile view counter'>
-# About Me
+# About Me 
 
-**I work with engineering leaders and teams to help them integrate and scale agentic development in a way that actually fits how they build.
-  
-Software development is changing faster than most organizations can keep up with, and I've seen that shift firsthand as a software developer. I have also worked as an account executive and solutions engineer, helping customers navigate that change and adopt the tools that actually make a difference.
-  
-At Macroscope, that means partnering with leaders and engineering teams who are figuring out how to bring agentic development into their workflow, thoughtfully and at scale. I'm here because I believe the way software gets built is being redefined, and I want to help shape what that looks like for the teams doing the building.**
-
+I work with engineering leaders and teams to help them integrate and scale agentic development in a way that actually fits how they build.Software development is changing faster than most organizations can keep up with, and I've seen that shift firsthand as a software developer. I have also worked as an account executive and solutions engineer, helping customers navigate that change and adopt the tools that actually make a difference.At Macroscope, that means partnering with leaders and engineering teams who are figuring out how to bring agentic development into their workflow, thoughtfully and at scale. I'm here because I believe the way software gets built is being redefined, and I want to help shape what that looks like for the teams doing the building.
 As a developer, I have spearheaded projects like overhauling UI for advanced data visualizations, introducing chat toolbars for specific events, and pioneering initiatives like 'dark mode' conversions. I am addicted to the flow of squashing that bug, finding an effecient solution to a unique problem, and refactoring code to make it more beautiful. Coding is a canvas I use to pour out my creativity, but also a vehicle for bringing meaningful things to life that hopefully will help other people. Beyond crafting solutions at work, I am deeply passionate about the web3 ecosystem, continuously learning and building within it during my free time.
 ---
 <p>

@@ -50,7 +50,7 @@ As a developer, I have spearheaded projects like overhauling UI for advanced dat
 <p/>
 
 
-![AJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=asabushaban&count_private=true&show_icons=true&theme=tokyonight)
+[AJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=asabushaban&count_private=true&show_icons=true&theme=tokyonight)
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=asabushaban&theme=tokyonight">
